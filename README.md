@@ -1,5 +1,5 @@
-És la aplicacion más grande que he hecho. En esta aplicación conectavamos con una api periodicos creados en wordpress y desde aquí podíamos crear y publicar las noticias que quísiéramos, de esta forma los clientes que nos contractavan porque tenian mala reputación en internet, a través de publicar "noticias falsas" sobre ellos que se creavan con la aplicación, hacian de cortina de humo y se posicionavan en las primeras páginas para así esconder las malas noticias y que se vieran las buenas.
-Además permite crear informes a los clientes y descargalos como pdf.
+Con todo lo que esta pasando con el COVID, muchas de las empresas tuvieron que contratar tiendas online para que su negocio siguiera en pie. Para esto creamos esta base de Ecommerce que nos servia como plantilla para cuando un cliente nos contractara, poder hazerle una tienda online más rapidamente y con pequeñas adaptaciones sobre esta base.
+Se pueden añadir clientes, productos y ver las compras que se realizan desde la aplicación frond-end que se le crea (no esta en el proyecto). Desde esta aplicación, además puedes gestionar gran parte de la aplicacion frond-ed con imagenes que quieras que se vean, opciones, modificar los productos al igual que añadir mas con su precio y sus descripciones y todo lo que necesites para que el cliente pueda realizar su compra a con Redsys. Para mi una aplicación muy completa y bien estructurada
 
 Los accessos para entrar en la aplicación estan en accessos.txt donde aparece el email y la contraseña.
 La BD tambíen esta subida en la raiz del proyecto.
